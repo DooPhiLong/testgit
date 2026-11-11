@@ -1,2 +1,5 @@
 print("hello worlddd")
 print("My name is Long Phi Long")
+print("My name is Lim")
+print("My name is Phi")
+print("My name is Huy")
